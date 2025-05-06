@@ -85,3 +85,24 @@ a.button {
     flex: 1;
     min-width: 250px;
 }
+
+.contact-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem; /* space between icons */
+    flex-wrap: wrap; /* keeps them in one row unless screen is too small */
+    margin-top: 1rem;
+}
+
+.contact-icons a img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: contain;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.contact-icons a:hover img {
+    transform: scale(1.2);
+    opacity: 0.8;
+}
