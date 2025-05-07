@@ -2,6 +2,7 @@
     --bg-color: #1e1e1e;
     --text-color: #f5f5f5;
     --header: #fff;
+    --minusTextC:  rgb(172, 172, 172);
     --card-bg: #2a2a2a;
     --accent-color: #28ad52;
 }
@@ -14,6 +15,7 @@ body.dark-mode {
     
     --bg-color: #f5f7fa;
     --text-color: #333;
+    --minusTextC: gray;
     --header: #100f0f;
     --card-bg: #fff;
     --accent-color: #0f5b27;
@@ -25,9 +27,12 @@ body.dark-mode {
     src: url('assets/Golden Age.ttf') format('truetype');
 }
 
+
+
+
 body {
     margin: 0;
-    font-family: 'pixel', monospace;
+    font-family: 'IBM Plex Mono', monospace;
     background-color: var(--bg-color);
     color: var(--text-color);
 }
@@ -36,9 +41,12 @@ header {
     color: #fff;
     padding: 2rem;
     text-align: center;
+    font-family: 'pixel', monospace;
+
 }
 header h1 {
     margin: 0; 
+    
 }
 nav {
 margin-top: 1rem;
@@ -60,6 +68,8 @@ h2 {
     color: var(--header);
     border-bottom: 2px solid #eee;
     padding-bottom: 0.5rem;
+    font-family: 'pixel', monospace;
+
 }
 .project {
     margin-bottom: 1.5rem;
@@ -161,5 +171,47 @@ body.dark-mode .contact-icons a img {
   #toggle-theme:hover {
     background-color: #1c7a39; /* slightly darker accent */
     transform: translateY(-2px);
+  }
+  
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+  
+  .project-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    
+  }
+  
+  .project-date {
+    font-size: 0.9rem;
+    color: var(--minusTextC);
+  }
+
+
+
+  .achievement-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+  
+  .achievement-list li {
+    background: var(--card-bg);
+    padding: 1rem;
+    border-left: 5px solid var(--accent-color);
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .achievement-date {
+    display: block;
+    font-size: 0.85rem;
+    color: gray;
+    margin-top: 0.25rem;
   }
   
