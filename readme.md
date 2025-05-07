@@ -2,7 +2,7 @@
 
 Welcome to the source code for my personal portfolio website! This site showcases my work, projects, skills, and contact information. 
 
-🔗 Live Site: [https://viviraia.github.io/portifolio](https://viviraia.github.io/portifolio)
+🔗 Live Site: [https://viviraia.github.io/portfolio/](https://viviraia.github.io/portfolio/)
 
 
 ---
