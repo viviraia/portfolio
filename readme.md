@@ -11,6 +11,7 @@ Welcome to the source code for my personal portfolio website! This site showcase
 ├── index.html # Main HTML file
 ├── /images # Images and other assets
 ├── style.css # Stylesheet
+├── script.js # JavaScript
 └── README.md # You're here!
 
 ---
@@ -18,7 +19,6 @@ Welcome to the source code for my personal portfolio website! This site showcase
 ## 🚀 Features
 
 - Responsive design for mobile and desktop
-- Interactive project showcase
 - About me section with bio and photo
 - Contact info
 - Clean, modern UI with accessible design principles
@@ -29,6 +29,7 @@ Welcome to the source code for my personal portfolio website! This site showcase
 
 - HTML5
 - CSS3
+- JavaScript
 
 ---
 
@@ -42,8 +43,6 @@ Welcome to the source code for my personal portfolio website! This site showcase
 
 Feel free to reach out:
 
-   > Email: [your.email@example.com]
+   > Email: [vividolni@gmail.com]
 
-   > LinkedIn: [your LinkedIn profile]
-
-   > Twitter: [@yourhandle]
+   > LinkedIn: [linkedin.com/in/victor-dolnikoff]
