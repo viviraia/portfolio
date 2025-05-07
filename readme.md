@@ -36,3 +36,14 @@ Welcome to the source code for my personal portfolio website! This site showcase
 
 ![Screenshot of Home Page](assets/screenshots/homepage.png)
 ![Screenshot of Projects Section](assets/screenshots/projects.png)
+
+
+📬 Contact
+
+Feel free to reach out:
+
+   > Email: [your.email@example.com]
+
+   > LinkedIn: [your LinkedIn profile]
+
+   > Twitter: [@yourhandle]
