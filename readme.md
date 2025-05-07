@@ -2,17 +2,8 @@
 
 Welcome to the source code for my personal portfolio website! This site showcases my work, projects, skills, and contact information. 
 
-🔗 Live Site: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+🔗 Live Site: [https://viviraia.github.io/portifolio](https://viviraia.github.io/portifolio)
 
----
-
-## 📁 Project Structure
-
-├── index.html # Main HTML file
-├── /images # Images and other assets
-├── style.css # Stylesheet
-├── script.js # JavaScript
-└── README.md # You're here!
 
 ---
 
@@ -45,4 +36,4 @@ Feel free to reach out:
 
    > Email: [vividolni@gmail.com]
 
-   > LinkedIn: [linkedin.com/in/victor-dolnikoff]
+   > LinkedIn: [Victor Dolnikoff](linkedin.com/in/victor-dolnikoff])
