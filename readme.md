@@ -1,4 +1,4 @@
-# 🌐 [Your Name] - Portfolio Website
+# 🌐 Victor Dolnikoff - Portfolio Website
 
 Welcome to the source code for my personal portfolio website! This site showcases my work, projects, skills, and contact information. 
 
